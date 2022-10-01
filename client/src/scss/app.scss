@@ -1,0 +1,83 @@
+/**
+
+====== TABLE OF CONTENTS =======
+1. Bootstrap & Variables Inside
+2. Bootstrap Components Override 
+    2.1 Alert
+    2.2 Avatar
+    2.3 Badge
+    2.4 Buttons
+    2.5 Breadcrumb
+    2.6 Carousel
+    2.7 Card
+    2.8 Divider
+    2.9 Dropdowns
+    2.10 Forms
+    2.11 Modal
+    2.12 Sidebar
+    2.13 Navs
+    2.14 Navbar
+    2.15 Pagination
+    2.16 Table
+    2.17 Progress
+4. Pages
+    4.0 Layout
+    4.1 Auth
+    4.2 Error
+5. Utilities
+
+
+*/
+@import 'core';
+
+.app {
+    position: relative;
+    overflow: hidden;
+    min-height: 100vh;
+    padding-bottom: 4rem;
+
+    &::before {
+        content: '';
+        display: block;
+        width: 100%;
+        height: 100%;
+        background: url(/shapes/Dash2.jpg);
+        background-size: 100% 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity: 1;
+    }
+
+    &::after {
+        content: '';
+        display: block;
+        width: 100%;
+        height: 100%;
+        background-size: 100% 100%;
+        position: absolute;
+        top: calc(100vh - 150px);
+        right: -150px;
+        opacity: 0.91;
+    }
+}
+
+*::-webkit-scrollbar {
+    width: 6px;
+    height: 4px;
+}
+
+*::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #685ba5;
+    border-radius: 30rem;
+}
+
+.form-control {
+    &::placeholder {
+        font-size: 0.9rem;
+    }
+}

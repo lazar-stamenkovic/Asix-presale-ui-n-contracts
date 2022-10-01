@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="94.148" height="111.99" viewBox="0 0 94.148 111.99">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0058d4"/>
+      <stop offset="1" stop-color="#aa60ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#aa60ff"/>
+      <stop offset="1" stop-color="#ff4bae"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffae19"/>
+      <stop offset="1" stop-color="#ff4bae"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0058d4"/>
+      <stop offset="1" stop-color="#00d48c"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_5" data-name="Group 5" transform="translate(-202.926 -79.792)">
+    <g id="Group_4" data-name="Group 4">
+      <path id="Path_1" data-name="Path 1" d="M245.573,93.3l-42.647,24.614v49.251l42.647,24.614,42.648-24.614V117.917Zm31.4,67.363-31.4,18.134-31.4-18.134V124.419l31.4-18.134,31.4,18.134Z" fill="url(#linear-gradient)"/>
+      <g id="Group_3" data-name="Group 3">
+        <path id="Path_2" data-name="Path 2" d="M292.675,87.746,271.92,108.5l-8.246,8.246-2.655,2.655-43.311,43.311-3.532-2.047V150.339l47.653-47.653,22.893-22.893Z" fill="url(#linear-gradient-2)"/>
+        <path id="Path_3" data-name="Path 3" d="M269.985,135.365l-36.471,36.471-10.08-5.816,2.666-2.666,35.931-35.943Z" fill="url(#linear-gradient-3)"/>
+        <path id="Path_4" data-name="Path 4" d="M297.074,133.205l-8.854,8.854-28.664,28.664L245.573,178.8l-6.345-3.656,48.992-48.992.9-.9Z" fill="url(#linear-gradient-4)"/>
+        <path id="Path_5" data-name="Path 5" d="M226.1,163.354l-2.666,2.667,10.08,5.816,2.655-2.655Zm-8.291-16.649-3.633,3.634v10.327l3.532,2.047,2.666-2.666-2.565-1.474Zm27.764,27.9-3.678-2.126-2.667,2.666,6.345,3.656,13.984-8.077,9.922-9.922Z" fill="#020063" opacity="0.32"/>
+      </g>
+    </g>
+  </g>
+</svg>
